@@ -17,7 +17,7 @@ class PortScannerApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
-      themeMode: ThemeMode.system,
+     // themeMode: ThemeMode.system,
       // ⬇️ الواجهة تأتي من ملف خارجي (screens/port_scanner_page.dart)
       home: const PortScannerPage(),
     );
